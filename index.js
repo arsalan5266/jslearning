@@ -80,3 +80,18 @@ for (let i = 0; i < numbers.length; i++) {
    
  }      
    }
+ let a = 10;
+ let b = 20;
+
+//  let c = a*b;
+//  console.log(c)
+
+ try {
+    let c = a*b;
+ console.log(c)
+ } catch (error) {
+    console.log(error)
+ }
+
+ const x = 7;
+ console.log(x)
