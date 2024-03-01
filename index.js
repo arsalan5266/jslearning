@@ -54,6 +54,9 @@ console.log(`my name is ${name} and my age is ${age}`);
 let todayDate= new Date()
 console.log(todayDate);
 
+let d= new Date("2024-03")
+console.log(d);
+
 //array  methods
 //  let fruits = ["banana","mango","apple","orsngr"]
 //  let size = fruits.length;
